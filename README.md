@@ -97,6 +97,7 @@ Admins and employees can:
 ---
 
 ## 🧩 Use Cases
+<img width="879" height="516" alt="image" src="https://github.com/user-attachments/assets/9379a811-4f2d-4b7e-9fc7-1470ab707d60" />
 
 ### Main Use Cases
 - Browse Menu (Customer)
